@@ -10,6 +10,7 @@ ___
 | Catalogopolis | https://api.catalogopolis.xyz/docs/ | Doctor Who episodes          |
 | STAPI         | http://stapi.co/                    | Info on all things Star Trek |
 | SWAPI         | https://www.swapi.tech/             | Star Wars Info               |
+| Marvel Comics | https://developer.marvel.com/       | Marvel age of comics         |
 | OMDb API      | https://www.omdbapi.com/            | Open Movie Database          |
 | IMDb API      | https://imdb-api.com/               | Film Rating System           |
 | enders Guru   | https://tenders.guru/ua/api         | Procurement in Ukraine       |
