@@ -1,6 +1,20 @@
 # JS-and-API-topic
 knowledge base :dragon: about interaction JS with APIs
 
+## [Hide](https://betterprogramming.pub/how-to-hide-your-api-keys-c2b952bc07e6) Your API Keys
+> _if at some point you committed your API keys to your git repo, you should remove all traces of it. \
+> You can do this by using git rebase and removing the commit that added the keys_
+
+&emsp; Services like Google Cloud and AWS make it possible to set restrictions on the usage of the API key.
+
+> _If you created your app with create-react-app, please be mindful of that your env variables will become a part of the build, meaning, they will be publicly available for anyone who’d inspect your files. Then, before deploying your page, delete the .env file and use the platform’s key management system ( for [Heroku](https://www.heroku.com/) or [Netlify](https://www.netlify.com/) )._
+
+
+So, if you wish to totally mask your key, you should make a backend that proxies your requests, and store the API key there.
+
+
+
+
 
 ___
 
