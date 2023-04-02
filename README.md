@@ -1,5 +1,9 @@
 # JS-and-API-topic
-knowledge base :dragon: about interaction JS with APIs
+<img src="https://github.com/SKindij/SKindij/blob/main/animation/Book.gif" title="Book" alt="Book" width="20" height="20"/>&ensp; knowledge base :dragon: about interaction JS with APIs
+
+___
+
+### In code 
 
 > helper function that can be used to fetch data from an API endpoint
 > > ```javascript  
@@ -17,7 +21,16 @@ knowledge base :dragon: about interaction JS with APIs
 >   checks response status code for errors, and returns parsed JSON data if request is successful.
 ___
 
-## [Hide](https://betterprogramming.pub/how-to-hide-your-api-keys-c2b952bc07e6) Your API Keys
+### Loading, waiting, and spinning animations.
+
+GIF, SVG, and APNG formats. https://icons8.com/preloaders/
+
+Animation Made Easy. https://loading.io/
+
+
+___
+
+### [Hide](https://betterprogramming.pub/how-to-hide-your-api-keys-c2b952bc07e6) Your API Keys
 > _if at some point you committed your API keys to your git repo, you should remove all traces of it. \
 > You can do this by using git rebase and removing the commit that added the keys_
 
