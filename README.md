@@ -1,5 +1,5 @@
 # JS-and-API-topic
-<img src="https://github.com/SKindij/SKindij/blob/main/animation/Book.gif" title="Book" alt="Book" width="20" height="20"/>&ensp; knowledge base :dragon: about interaction JS with APIs
+&emsp;  <img src="https://github.com/SKindij/SKindij/blob/main/animation/Book.gif" title="Book" alt="Book" width="20" height="20"/>&ensp; knowledge base :dragon: about interaction JS with APIs
 
 ___
 
@@ -24,6 +24,11 @@ ___
 ### Loading, waiting, and spinning animations.
 * GIF, SVG, and APNG formats. https://icons8.com/preloaders/
 * Animation Made Easy. https://loading.io/
+
+&emsp;  The [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit) CSS property sets how the content of a replaced element, such as an ``<img>`` or ``<video>``, should be resized to fit its container.
+
+
+
 ___
 
 ### react-lifecycle-methods
