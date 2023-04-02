@@ -1,6 +1,22 @@
 # JS-and-API-topic
 knowledge base :dragon: about interaction JS with APIs
 
+> helper function that can be used to fetch data from an API endpoint
+> > ```javascript  
+> >   getResource = async (url) => { // asynchronous arrow function that takes in a url parameter
+> >     // 'await' is used to wait for response to come back before moving on to next line of code
+> >       // 'fetch' send GET request to specified URL
+> >     let res = await fetch(url);  // response object is assigned to 'res' variable
+> >       // this 'if' statement checks whether response status code is not in 200-299 range
+> >       if (!res.ok) { throw new Error(`Could not fetch ${url}, status: ${res.status}`); } 
+> >         // 'await' is used to wait for JSON parsing to complete before returning data
+> >         return await res.json();
+> >   };
+> > ```
+> In summary, 'getResource' function fetches data from specified API endpoint,<br> 
+>   checks response status code for errors, and returns parsed JSON data if request is successful.
+___
+
 ## [Hide](https://betterprogramming.pub/how-to-hide-your-api-keys-c2b952bc07e6) Your API Keys
 > _if at some point you committed your API keys to your git repo, you should remove all traces of it. \
 > You can do this by using git rebase and removing the commit that added the keys_
