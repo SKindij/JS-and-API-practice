@@ -22,10 +22,18 @@ ___
 ___
 
 ### Loading, waiting, and spinning animations.
+* GIF, SVG, and APNG formats. https://icons8.com/preloaders/
+* Animation Made Easy. https://loading.io/
+___
 
-GIF, SVG, and APNG formats. https://icons8.com/preloaders/
+### react-lifecycle-methods
+<div>
+  <img src="https://github.com/SKindij/SKindij/blob/main/recources/react-lifecycle-methods.jpg" 
+    title="react-lifecycle-method" alt="react-lifecycle-method" width="640" height="240"/>  
+</div> 
 
-Animation Made Easy. https://loading.io/
+
+
 
 
 ___
