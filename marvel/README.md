@@ -34,6 +34,7 @@ Response Class (Response Body)
                 {
                   "resourceURI": " ... ",
                   "name": " ... "
+                },
                 {
                   "resourceURI": "http://gateway.marvel.com/v1/public/comics/6913",
                   "name": "The Amazing Spider-Man (1963) #90"
