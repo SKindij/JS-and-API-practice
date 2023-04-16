@@ -1,5 +1,12 @@
-# JS-and-API-topic
-&emsp;  <img src="https://github.com/SKindij/SKindij/blob/main/animation/Book.gif" title="Book" alt="Book" width="20" height="20"/>&ensp; knowledge base :dragon: about interaction JS with APIs
+# JS-and-API
+&emsp;  <img src="https://github.com/SKindij/SKindij/blob/main/animation/Book.gif" title="Book" alt="Book" width="20" height="20"/>&ensp; 
+something :dragon: about interaction JS with APIs
+
+#### examples of my projects
+
+**Marvel Comics app**
+* github [repo](https://github.com/SKindij/JS-and-API-practice/tree/main/marvel)
+* web [link](https://marvel.maxkin.xyz/)
 
 ___
 
